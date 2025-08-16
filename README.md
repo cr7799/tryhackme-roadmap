@@ -29,7 +29,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 ---
 
 ## 🌐 Network Fundamentals
-- [ ] [TryHackMe | What is Networking?]([https://tryhackme.com/room/offensivesecurityintrokK](https://tryhackme.com/room/whatisnetworking)) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=42u_2e6eNF4)
+- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=42u_2e6eNF4)
 - [ ] 
 ---
 
