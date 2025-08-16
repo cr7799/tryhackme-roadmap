@@ -17,7 +17,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 - [ ] [TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=lBRHTtwsBeo)   
 - [ ] [TryHackMe | Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=3fG3HpEnM2A)  
 - [ ] [TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=9sMDzMIp-98)    
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=5g6D69bmQdw)
+- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) 🎁 🎥 [Walkthrough](hhttps://www.youtube.com/watch?v=5g6D69bmQdw)
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello) 🎁 
 - [ ] [TryHackMe | Kali Machine](https://tryhackme.com/room/kali) 💸
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) 🎁 
@@ -30,7 +30,15 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 
 ## 🌐 Network Fundamentals
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=42u_2e6eNF4)
-- [ ] 
+- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=csYtPidvvFQ)
+- [ ] [TryHackMe | OSI Model](https://tryhackme.com/room/osimodelzi) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=hWIktHvNjeM)
+- [ ] [TryHackMe | Packets & Frames](https://tryhackme.com/room/packetsframes) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=vzcLrE0SfiQ)
+- [ ] [TryHackMe | Extending Your Network](https://tryhackme.com/room/extendingyournetwork) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=uMkjvpux70I)
+- [ ] [TryHackMe | DNS in Detail](https://tryhackme.com/room/dnsindetail) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=jpTY1S5vs9k)
+- [ ] [TryHackMe | HTTP in Detail](https://tryhackme.com/room/httpindetail) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=XZyapIKV3Rw)
+- [ ] [TryHackMe | How Websites Work](https://tryhackme.com/room/howwebsiteswork) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=iWoiwFRLV4I)
+- [ ] [TryHackMe | Putting it all together](https://tryhackme.com/room/puttingitalltogether) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=Aa_FAA3v22g)
+
 ---
 
 ## 🐧 Linux Fundamentals  
