@@ -8,18 +8,19 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 - ✅ = Completed (check it yourself!)  
 - 🎬 = Walkthrough Video Available  
 - 🎁 = Free Room  
-- 💸 = Paid Room  
+- 💸 = Premium Room  
 
 ---
 
 ## 📂 Introductory Rooms  
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome) 🟢  
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme) 🟢 🎥 [Video](https://youtu.be/xxxxx)  
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial) 🟢  
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn) 🟢 🎥 [Video](https://youtu.be/yyyyy)  
-- [ ] [Starting Out in Cyber Sec](https://tryhackme.com/room/startingoutincybersec) 🟢  
-- [ ] [Regular Expressions](https://tryhackme.com/room/regex) 🔴  
+- [ ] [TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) 🎁  
+- [ ] [TryHackMe | Defensive Security Intro]([https://tryhackme.com/room/howtousetryhackme](https://tryhackme.com/room/defensivesecurityintro)) 🎁 🎥 [Video](https://youtu.be/xxxxx)  
+- [ ] [TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber) 🎁  
+- [ ] [TryHackMe | Starting Out In Cyber Sec]([https://tryhackme.com/room/openvpn](https://tryhackme.com/room/startingoutincybersec)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
+- [ ] [TryHackMe | Welcome]([https://tryhackme.com/room/hello)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
+- [ ] [TryHackMe | Kali Machine]([https://tryhackme.com/room/kali)) 💸 🎥 [Video](https://youtu.be/yyyyy) 
+  
 
 ---
 
