@@ -9,7 +9,7 @@ Track your progress with checkboxes ✅, watch walkthroughs 🎥, and know which
 - ✅ = Completed (check it yourself!)  
 - 🎥 = Walkthrough Video Available  
 - 🟢 = Free Room  
-- 💲 = Paid Room  
+- 💸 = Paid Room  
 
 ---
 
