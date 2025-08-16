@@ -63,43 +63,16 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 
 ---
 
-## 🕵️ Reconnaissance  
+## 🧠 Soft Skills  
 
-- [ ] [Passive Reconnaissance](https://tryhackme.com/room/passiverecon) 🟢  
-- [ ] [Active Reconnaissance](https://tryhackme.com/room/activerecon) 🟢  
-- [ ] [Google Dorking](https://tryhackme.com/room/googledorking) 🟢 🎥 [Video](https://youtu.be/bbbbb)  
-- [ ] [Shodan.io](https://tryhackme.com/room/shodan) 🔴  
-
----
-
-## ⚔️ CTFs  
-
-### 🎯 Easy  
-- [ ] [Vulnversity](https://tryhackme.com/room/vulnversity) 🟢 🎥 [Video](https://youtu.be/ccccc)  
-- [ ] [Simple CTF](https://tryhackme.com/room/easyctf) 🟢  
-
-### 🟡 Medium  
-- [ ] [Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep) 🔴  
-
-### 🔴 Hard  
-- [ ] [Harder Room Example](https://tryhackme.com/room/hardroom) 🔴  
+- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=7YJc8L_fCiU)
+- [ ] [TryHackMe | Search Skills](https://tryhackme.com/room/searchskills) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=JkR4awgm6QU)
 
 ---
 
 ## 🎄 Special Events  
 
-- [ ] [Advent of Cyber 2022](https://tryhackme.com/room/adventofcyber2022) 🟢 🎥 [Video](https://youtu.be/ddddd)  
-- [ ] [Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) 🔴  
-
----
-
-## 📊 Progress Tracker  
-
-You can **track your own learning progress** here:  
-
-- [ ] Beginner Path ✅  
-- [ ] Jr Penetration Tester Path 🟢  
-- [ ] SOC Analyst Path 🔴  
+- [ ] [TryHackMe | Learn and win prizes](https://tryhackme.com/room/tickets1) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=KSq9tG2bP1Y)
 
 ---
 
