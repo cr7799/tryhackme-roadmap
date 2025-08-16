@@ -8,7 +8,7 @@ Track your progress with checkboxes ✅, watch walkthroughs 🎥, and know which
 ## 📌 Legend  
 - ✅ = Completed (check it yourself!)  
 - 🎥 = Walkthrough Video Available  
-- 🟢 = Free Room  
+- 🎁 = Free Room  
 - 💸 = Paid Room  
 
 ---
