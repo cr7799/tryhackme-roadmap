@@ -14,12 +14,16 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 
 ## 📂 Introductory Rooms  
 
-- [ ] [TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) 🎁  
+- [ ] [TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) 🎁 🎥 [Video](https://youtu.be/xxxxx)   
 - [ ] [TryHackMe | Defensive Security Intro]([https://tryhackme.com/room/howtousetryhackme](https://tryhackme.com/room/defensivesecurityintro)) 🎁 🎥 [Video](https://youtu.be/xxxxx)  
-- [ ] [TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber) 🎁  
+- [ ] [TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber) 🎁 🎥 [Video](https://youtu.be/xxxxx)    
 - [ ] [TryHackMe | Starting Out In Cyber Sec]([https://tryhackme.com/room/openvpn](https://tryhackme.com/room/startingoutincybersec)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
 - [ ] [TryHackMe | Welcome]([https://tryhackme.com/room/hello)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
-- [ ] [TryHackMe | Kali Machine]([https://tryhackme.com/room/kali)) 💸 🎥 [Video](https://youtu.be/yyyyy) 
+- [ ] [TryHackMe | Kali Machine]([https://tryhackme.com/room/kali)) 💸 🎥 [Video](https://youtu.be/yyyyy)
+- [ ] [TryHackMe | How to use TryHackMe]([https://tryhackme.com/room/howtousetryhackme)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
+- [ ] [TryHackMe | Tutorial]([https://tryhackme.com/room/tutorial)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
+- [ ] [TryHackMe | Learning Cyber Security]([https://tryhackme.com/room/beginnerpathintro)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
+- [ ] [TryHackMe | OpenVPN]([https://tryhackme.com/room/openvpn)) 🎁 🎥 [Video](https://youtu.be/yyyyy)
   
 
 ---
