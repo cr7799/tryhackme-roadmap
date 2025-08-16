@@ -1,7 +1,6 @@
 # 🚀 TryHackMe Roadmap  
 
 A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](https://tryhackme.com).  
-Track your progress with checkboxes ✅, watch walkthroughs 🎥, and know which rooms are **Free** or **Paid**.  
 
 ---
 
