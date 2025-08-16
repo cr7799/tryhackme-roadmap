@@ -54,9 +54,12 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 
 ## 🪟 Windows Fundamentals  
 
-- [ ] [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) 🟢  
-- [ ] [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) 🟢 🎥 [Video](https://youtu.be/aaaaa)  
-- [ ] [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) 🔴  
+- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=Ssa2W1bUoAg)
+- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=9lz5nLOw7iU)
+- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=pXpUts9wltk)
+- [ ] [TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=T55AcTV_m7E)
+- [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/room/windowscommandline) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=Dbtq2gT2S-I)
+- [ ] [TryHackMe | Windows PowerShell](https://tryhackme.com/room/windowspowershell) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=Dbtq2gT2S-I)
 
 ---
 
