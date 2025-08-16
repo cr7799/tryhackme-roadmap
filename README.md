@@ -43,9 +43,12 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 
 ## 🐧 Linux Fundamentals  
 
-- [ ] [Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) 🟢 🎥 [Video](https://youtu.be/zzzzz)  
-- [ ] [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) 🟢  
-- [ ] [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3) 🟢  
+- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=kPylihJRG70)
+- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=7Zt2Mp2IeBI)
+- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart2) 💸 🎥 [Walkthrough](https://tryhackme.com/room/linuxfundamentalspart3)
+- [ ] [TryHackMe | Linux Shells](https://tryhackme.com/room/linuxshells) 💸 🎥 [Walkthrough](https://www.youtube.com/watch?v=xpKQ8FHogdE)
+- [ ] [TryHackMe | Toolbox: Vim ](https://tryhackme.com/room/toolboxvim) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=-txKSRn0qeA)
+- [ ] [TryHackMe | Bash Scripting  ](https://tryhackme.com/room/bashscripting) 🎁 🎥 [Walkthrough](https://www.youtube.com/watch?v=-av-mD22ukU)
 
 ---
 
