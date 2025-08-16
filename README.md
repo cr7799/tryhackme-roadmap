@@ -14,7 +14,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on [TryHackMe](http
 
 ## 📂 Introduction to Cyber Security 
 
-- [ ] [TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) 🎁 🎥 [Walkthrough]([https://youtu.be/xxxxx](https://www.youtube.com/watch?v=lBRHTtwsBeo))   
+- [ ] [TryHackMe | Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) 🎁 🎥 [Walkthrough]((https://www.youtube.com/watch?v=lBRHTtwsBeo))   
 - [ ] [TryHackMe | Defensive Security Intro]([https://tryhackme.com/room/howtousetryhackme](https://tryhackme.com/room/defensivesecurityintro)) 🎁 🎥 [Walkthrough]([https://youtu.be/xxxxx](https://www.youtube.com/watch?v=3fG3HpEnM2A))  
 - [ ] [TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber) 🎁 🎥 [Walkthrough]([https://youtu.be/xxxxx](https://www.youtube.com/watch?v=9sMDzMIp-98))    
 - [ ] [TryHackMe | Starting Out In Cyber Sec]([https://tryhackme.com/room/openvpn](https://tryhackme.com/room/startingoutincybersec)) 🎁 🎥 [Walkthrough]([https://youtu.be/yyyyy](https://www.youtube.com/watch?v=5g6D69bmQdw))
