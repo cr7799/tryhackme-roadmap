@@ -24,6 +24,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/tutorial" target="_blank" rel="noopener noreferrer">TryHackMe | Tutorial</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=ROO2pDPgja4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/gettingstarted" target="_blank" rel="noopener noreferrer">TryHackMe | Getting Started</a> 🎁 
 - [ ] <a href="https://tryhackme.com/room/beginnerpathintro" target="_blank" rel="noopener noreferrer">TryHackMe | Learning Cyber Security</a> 🎁
+- [ ] <a href="https://tryhackme.com/room/becomeahackeroa" target="_blank" rel="noopener noreferrer">TryHackMe | Become a Hacker</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=X2MQ-U6wlwY" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/openvpn" target="_blank" rel="noopener noreferrer">TryHackMe | OpenVPN</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=Qm3SQE-dPdA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
   
 
