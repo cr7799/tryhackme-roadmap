@@ -67,6 +67,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 - [ ] <a href="https://tryhackme.com/room/ohsint" target="_blank" rel="noopener noreferrer">TryHackMe | OhSINT</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=7YJc8L_fCiU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/searchskills" target="_blank" rel="noopener noreferrer">TryHackMe | Search Skills</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=JkR4awgm6QU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/introtoresearch" target="_blank" rel="noopener noreferrer">TryHackMe | Introductory Researching</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=TGsIxfvEDaQ" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
