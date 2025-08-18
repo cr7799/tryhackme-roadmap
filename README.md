@@ -51,6 +51,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/linuxshells" target="_blank" rel="noopener noreferrer">TryHackMe | Linux Shells</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=xpKQ8FHogdE" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/toolboxvim" target="_blank" rel="noopener noreferrer">TryHackMe | Toolbox: Vim </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=-txKSRn0qeA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/bashscripting" target="_blank" rel="noopener noreferrer">TryHackMe | Bash Scripting  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=-av-mD22ukU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/catregex" target="_blank" rel="noopener noreferrer">TryHackMe | Regular Expressions  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=0VWbo4CNims&t=877s" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
