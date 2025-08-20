@@ -53,7 +53,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/bashscripting" target="_blank" rel="noopener noreferrer">TryHackMe | Bash Scripting  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=-av-mD22ukU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/catregex" target="_blank" rel="noopener noreferrer">TryHackMe | Regular Expressions  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=0VWbo4CNims&t=877s" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/nislinuxone" target="_blank" rel="noopener noreferrer">TryHackMe | NIS - Linux Part I  </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=zJpZASQREOc" target="_blank" rel="noopener noreferrer">Walkthrough</a>
-- [ ] <a href="https://tryhackme.com/room/linuxmodules" target="_blank" rel="noopener noreferrer">TryHackMe | Linux Modules  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=eXhltuBfa8s" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/linuxmodules" target="_blank" rel="noopener noreferrer">TryHackMe | Linux Modules  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=eXhltuBfa8s" target="_blank" rel="noopener noreferrer">Walkthrough</a>  <a href="https://www.youtube.com/playlist?list=PLbpSggYC-xcoaX_xx2OIah7rCT9ymwP29" target="_blank" rel="noopener noreferrer"> Walkthrough 2</a>
 
 ---
 
