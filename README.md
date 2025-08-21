@@ -68,6 +68,11 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ---
 
+## 🌐⚡ Networking
+- [ ] <a href="https://tryhackme.com/room/networkingconcepts" target="_blank" rel="noopener noreferrer">TryHackMe | Networking Concepts</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=VcBiJuu-8LU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+
+---
+
 ## 🧠 Soft Skills  
 
 - [ ] <a href="https://tryhackme.com/room/ohsint" target="_blank" rel="noopener noreferrer">TryHackMe | OhSINT</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=7YJc8L_fCiU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
