@@ -74,6 +74,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/networkingcoreprotocols" target="_blank" rel="noopener noreferrer">TryHackMe | Networking Core Protocols</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=4SYAKMcRPKQ" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/networkingsecureprotocols" target="_blank" rel="noopener noreferrer">TryHackMe | Networking Secure Protocols</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=lqUkKwlJTdM" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/wiresharkthebasics" target="_blank" rel="noopener noreferrer">TryHackMe | Wireshark: The Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=6qiTYp99Oa8" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/tcpdump" target="_blank" rel="noopener noreferrer">TryHackMe | Tcpdump: The Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=FdtwrpvsOaU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
