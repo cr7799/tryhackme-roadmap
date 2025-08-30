@@ -90,8 +90,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ## 🎄 Special Events  
 
 - [ ] <a href="https://tryhackme.com/room/tickets1" target="_blank" rel="noopener noreferrer">TryHackMe | Learn and win prizes</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=KSq9tG2bP1Y" target="_blank" rel="noopener noreferrer">Walkthrough</a>
-
-- [ ] <a href="https://tryhackme.com/room/hack2win" target="_blank" rel="noopener noreferrer">TryHackMe | Hack2Win: How you can grab extra tickets</a> 🎁 
+- [ ] <a href="https://tryhackme.com/room/hack2win" target="_blank" rel="noopener noreferrer">TryHackMe | Hack2Win: How you can grab extra tickets</a> 🎁
 ---
 
 ## ✨ How to Use  
