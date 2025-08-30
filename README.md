@@ -77,6 +77,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/tcpdump" target="_blank" rel="noopener noreferrer">TryHackMe | Tcpdump: The Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=FdtwrpvsOaU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/nmap" target="_blank" rel="noopener noreferrer">TryHackMe | Nmap: The Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=0vPtjVu8QM0" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/wireshark" target="_blank" rel="noopener noreferrer">TryHackMe | Wireshark 101</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=AYzpPYz7c08" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+
 ---
 
 ## 🧠 Soft Skills  
