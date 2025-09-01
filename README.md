@@ -81,6 +81,10 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ---
 
+## 🔐 Cryptography
+- [ ] <a href="https://tryhackme.com/room/cryptographybasics" target="_blank" rel="noopener noreferrer">TryHackMe | Cryptography Basics</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=XlLRQoOELVc" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+---
+
 ## 🧠 Soft Skills  
 
 - [ ] <a href="https://tryhackme.com/room/ohsint" target="_blank" rel="noopener noreferrer">TryHackMe | OhSINT</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=7YJc8L_fCiU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
