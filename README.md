@@ -30,7 +30,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ---
 
-## 🛡️ Introduction to Defensive Secu 
+## 🛡️ Introduction to Defensive Security 
 - [ ] <a href="https://tryhackme.com/room/introdigitalforensics" target="_blank" rel="noopener noreferrer">TryHackMe | Intro to Digital Forensics</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=iLhSP1WD7Po" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
