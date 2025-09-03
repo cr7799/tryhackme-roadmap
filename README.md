@@ -36,6 +36,12 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ---
 
+## ⚔︎ Introduction to Offensive Security
+- [ ] <a href="https://tryhackme.com/room/introwebapplicationsecurity" target="_blank" rel="noopener noreferrer">TryHackMe | Web Application Security</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=9YAisJofq3s" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+
+
+---
+
 ## 🌐 Network Fundamentals
 - [ ] <a href="https://tryhackme.com/room/whatisnetworking" target="_blank" rel="noopener noreferrer">TryHackMe | What is Networking?</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=42u_2e6eNF4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/introtolan" target="_blank" rel="noopener noreferrer">TryHackMe | Intro to LAN</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=csYtPidvvFQ" target="_blank" rel="noopener noreferrer">Walkthrough</a>
