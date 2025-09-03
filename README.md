@@ -30,6 +30,11 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ---
 
+## 🛡️ Introduction to Defensive Secu 
+- [ ] <a href="https://tryhackme.com/room/introdigitalforensics" target="_blank" rel="noopener noreferrer">TryHackMe | Intro to Digital Forensics</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=iLhSP1WD7Po" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+
+---
+
 ## 🌐 Network Fundamentals
 - [ ] <a href="https://tryhackme.com/room/whatisnetworking" target="_blank" rel="noopener noreferrer">TryHackMe | What is Networking?</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=42u_2e6eNF4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/introtolan" target="_blank" rel="noopener noreferrer">TryHackMe | Intro to LAN</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=csYtPidvvFQ" target="_blank" rel="noopener noreferrer">Walkthrough</a>
