@@ -38,6 +38,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ## ⚔︎ Introduction to Offensive Security
 - [ ] <a href="https://tryhackme.com/room/introwebapplicationsecurity" target="_blank" rel="noopener noreferrer">TryHackMe | Web Application Security</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=9YAisJofq3s" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/operatingsystemsecurity" target="_blank" rel="noopener noreferrer">TryHackMe | Operating System Security</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=6svk59F6aIA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 
 ---
