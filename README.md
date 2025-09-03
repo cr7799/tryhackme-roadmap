@@ -69,6 +69,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/nislinuxone" target="_blank" rel="noopener noreferrer">TryHackMe | NIS - Linux Part I  </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=zJpZASQREOc" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/linuxmodules" target="_blank" rel="noopener noreferrer">TryHackMe | Linux Modules  </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=t3GnN0z6tl8" target="_blank" rel="noopener noreferrer">Walkthrough</a>  <a href="https://www.youtube.com/playlist?list=PLbpSggYC-xcoaX_xx2OIah7rCT9ymwP29" target="_blank" rel="noopener noreferrer"> Walkthrough 2</a>
 - [ ] <a href="https://tryhackme.com/room/rptmux" target="_blank" rel="noopener noreferrer">TryHackMe | tmux</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=vAZSyC1nh3c" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/ninjaskills" target="_blank" rel="noopener noreferrer">TryHackMe | Ninja Skills</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=vOD9dTaLbr0" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
