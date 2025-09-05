@@ -109,6 +109,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/hashingcrypto101" target="_blank" rel="noopener noreferrer">TryHackMe | Hashing - Crypto 101</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=3DCBXnObfwc" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/breakrsa" target="_blank" rel="noopener noreferrer">TryHackMe | Breaking RSA</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=zDn41yhEZ1Q" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/hfb1darkmatter" target="_blank" rel="noopener noreferrer">TryHackMe | DarkMatter</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=IKvakkw8Vdw" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/hfb1cryptosystem" target="_blank" rel="noopener noreferrer">TryHackMe | Cryptosystem</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=ItK9XFx5x7k" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 
 ---
