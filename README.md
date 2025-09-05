@@ -105,7 +105,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/crackthehash" target="_blank" rel="noopener noreferrer">TryHackMe | Crack the hash</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=4kJZxMd7NmM" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/cryptographyfordummies" target="_blank" rel="noopener noreferrer">TryHackMe | Cryptography for Dummies</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=3SP1_cFCNXA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/cryptographyintro" target="_blank" rel="noopener noreferrer">TryHackMe | Introduction to Cryptography</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=zaKu2QBpsX8" target="_blank" rel="noopener noreferrer">Walkthrough</a>
-
+- [ ] <a href="https://tryhackme.com/room/encryptioncrypto101" target="_blank" rel="noopener noreferrer">TryHackMe | Encryption - Crypto 101</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=qfRsIVeh790" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 
 ---
