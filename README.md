@@ -116,6 +116,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 ## 👨🏻‍💻 Exploitation Basics
 - [ ] <a href="https://tryhackme.com/room/monikerlink" target="_blank" rel="noopener noreferrer">TryHackMe | Moniker Link (CVE-2024-21413)</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=yzbhb-HBd-Q" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/metasploitintro" target="_blank" rel="noopener noreferrer">TryHackMe | Metasploit: Introduction </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=-KRGLmbu11E" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
