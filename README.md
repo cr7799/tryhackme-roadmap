@@ -120,6 +120,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/metasploitexploitation" target="_blank" rel="noopener noreferrer">TryHackMe | Metasploit: Exploitation</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=mPtyxz8nh1Q" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/meterpreter" target="_blank" rel="noopener noreferrer">TryHackMe | Metasploit: Meterpreter</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=vrIhvxkYvW4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/blue" target="_blank" rel="noopener noreferrer">TryHackMe | Blue</a> 🎁 🎥 <a href="https://assets.tryhackme.com/rooms/blue/cebba2457df187729076e80e79ef1217.mp4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/ice" target="_blank" rel="noopener noreferrer">TryHackMe | Ice</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=Wc7NVl-wNXI" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
