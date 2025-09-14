@@ -115,6 +115,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ---
 
 ## 👨🏻‍💻 Exploitation Basics
+
 - [ ] <a href="https://tryhackme.com/room/monikerlink" target="_blank" rel="noopener noreferrer">TryHackMe | Moniker Link (CVE-2024-21413)</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=yzbhb-HBd-Q" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/metasploitintro" target="_blank" rel="noopener noreferrer">TryHackMe | Metasploit: Introduction </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=-KRGLmbu11E" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/metasploitexploitation" target="_blank" rel="noopener noreferrer">TryHackMe | Metasploit: Exploitation</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=mPtyxz8nh1Q" target="_blank" rel="noopener noreferrer">Walkthrough</a>
@@ -128,6 +129,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ## 🕸️ Web Hacking
 
 - [ ] <a href="https://tryhackme.com/room/webapplicationbasics" target="_blank" rel="noopener noreferrer">TryHackMe | Web Application Basics</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=CAPoIQVRd6Q" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/websecurityessentials" target="_blank" rel="noopener noreferrer">TryHackMe | Web Security Essentials</a> 🎁 🎥 <a href="https://medium.com/@sampatil8554/%EF%B8%8F-web-security-essentials-a-beginners-guide-with-tryhackme-d23ac015c044" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
