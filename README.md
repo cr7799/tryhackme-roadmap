@@ -132,6 +132,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/websecurityessentials" target="_blank" rel="noopener noreferrer">TryHackMe | Web Security Essentials</a> 🎁 🎥 <a href="https://medium.com/@sampatil8554/%EF%B8%8F-web-security-essentials-a-beginners-guide-with-tryhackme-d23ac015c044" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/javascriptessentials" target="_blank" rel="noopener noreferrer">TryHackMe | JavaScript Essentials</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=EWwREkEiqxo" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/sqlfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | SQL Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=4rpJWOHP9Xo" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/burpsuitebasics" target="_blank" rel="noopener noreferrer">TryHackMe | Burp Suite: The Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=9EdVx5rEhcg" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
