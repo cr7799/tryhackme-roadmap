@@ -134,7 +134,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/sqlfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | SQL Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=4rpJWOHP9Xo" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/burpsuitebasics" target="_blank" rel="noopener noreferrer">TryHackMe | Burp Suite: The Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=9EdVx5rEhcg" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/owasptop102021" target="_blank" rel="noopener noreferrer">TryHackMe | OWASP Top 10 - 2021</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=QtgqezfV9Z8" target="_blank" rel="noopener noreferrer">Walkthrough part 1 </a> <a href="https://www.youtube.com/watch?v=nZDwUwIPJ6M" target="_blank" rel="noopener noreferrer">Walkthrough part 2</a>
-
+- [ ] <a href="https://tryhackme.com/room/owasptop10" target="_blank" rel="noopener noreferrer">TryHackMe | OWASP Top 10</a> 🎁 🎥 <a href="https://thedutchhacker.com/owasp-top-10-on-tryhackme/" target="_blank" rel="noopener noreferrer">Walkthrough 1</a> <a href="https://www.jalblas.com/blog/tryhackme-owasp-top-10-walkthrough/#task-12-severity-4-xml-external-entity" target="_blank" rel="noopener noreferrer">Walkthrough 2</a>
 ---
 
 ## 🧠 Soft Skills  
