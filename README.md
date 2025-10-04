@@ -142,6 +142,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 - [ ] <a href="https://tryhackme.com/room/hydra" target="_blank" rel="noopener noreferrer">TryHackMe | Hydra </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=8fs_7bm88GY" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/gobusterthebasics" target="_blank" rel="noopener noreferrer">TryHackMe | Gobuster: The Basics </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=0VaxCQcKzBI" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/shellsoverview" target="_blank" rel="noopener noreferrer">TryHackMe | Shells Overview </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=WvCl5sePa7Y" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 
 ---
