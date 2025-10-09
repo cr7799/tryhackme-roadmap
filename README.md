@@ -35,6 +35,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/securityoperations" target="_blank" rel="noopener noreferrer">TryHackMe | Security Operations</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=f9KcD11KT1U" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/socfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | SOC Fundamentals</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=MtVGmF-jACI" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/digitalforensicsfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | Digital Forensics Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=EN6xeZ2oVFA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/incidentresponsefundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | Incident Response Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=fcZ7_-BZBqM" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
