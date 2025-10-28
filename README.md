@@ -16,7 +16,9 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 
 - [ ] <a href="https://tryhackme.com/room/offensivesecurityintrokK" target="_blank" rel="noopener noreferrer">TryHackMe | Offensive Security Intro</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=lBRHTtwsBeo" target="_blank" rel="noopener noreferrer">Walkthrough</a>   
 - [ ] <a href="https://tryhackme.com/room/defensivesecurityintro" target="_blank" rel="noopener noreferrer">TryHackMe | Defensive Security Intro</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=3fG3HpEnM2A" target="_blank" rel="noopener noreferrer">Walkthrough</a>  
-- [ ] <a href="https://tryhackme.com/room/careersincyber" target="_blank" rel="noopener noreferrer">TryHackMe | Careers in Cyber</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=9sMDzMIp-98" target="_blank" rel="noopener noreferrer">Walkthrough</a>    
+- [ ] <a href="https://tryhackme.com/room/careersincyber" target="_blank" rel="noopener noreferrer">TryHackMe | Careers in Cyber</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=9sMDzMIp-98" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/securityprinciples" target="_blank" rel="noopener noreferrer">TryHackMe | Security Principles</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=Quje0r194dM" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/training" target="_blank" rel="noopener noreferrer">TryHackMe | Training Impact on Teams</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=tu5WC04PhAE" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/startingoutincybersec" target="_blank" rel="noopener noreferrer">TryHackMe | Starting Out In Cyber Sec</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=5g6D69bmQdw" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/hello" target="_blank" rel="noopener noreferrer">TryHackMe | Welcome</a> 🎁 
 - [ ] <a href="https://tryhackme.com/room/kali" target="_blank" rel="noopener noreferrer">TryHackMe | Kali Machine</a> 💸
@@ -31,11 +33,13 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ---
 
 ## 🛡️ Introduction to Defensive Security 
+
 - [ ] <a href="https://tryhackme.com/room/introdigitalforensics" target="_blank" rel="noopener noreferrer">TryHackMe | Intro to Digital Forensics</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=iLhSP1WD7Po" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/securityoperations" target="_blank" rel="noopener noreferrer">TryHackMe | Security Operations</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=f9KcD11KT1U" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/socfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | SOC Fundamentals</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=MtVGmF-jACI" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/digitalforensicsfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | Digital Forensics Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=EN6xeZ2oVFA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/incidentresponsefundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | Incident Response Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=fcZ7_-BZBqM" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/logsfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | Logs Fundamentals</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=d8PQxdrysIA" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 ---
 
@@ -48,6 +52,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ---
 
 ## 🌐 Network Fundamentals
+
 - [ ] <a href="https://tryhackme.com/room/whatisnetworking" target="_blank" rel="noopener noreferrer">TryHackMe | What is Networking?</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=42u_2e6eNF4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/introtolan" target="_blank" rel="noopener noreferrer">TryHackMe | Intro to LAN</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=csYtPidvvFQ" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/osimodelzi" target="_blank" rel="noopener noreferrer">TryHackMe | OSI Model</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=hWIktHvNjeM" target="_blank" rel="noopener noreferrer">Walkthrough</a>
@@ -88,6 +93,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ---
 
 ## 🌐⚡ Networking
+
 - [ ] <a href="https://tryhackme.com/room/networkingconcepts" target="_blank" rel="noopener noreferrer">TryHackMe | Networking Concepts</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=VcBiJuu-8LU" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/networkingessentials" target="_blank" rel="noopener noreferrer">TryHackMe | Networking Essentials</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=bWtwXNm5V-8" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/networkingcoreprotocols" target="_blank" rel="noopener noreferrer">TryHackMe | Networking Core Protocols</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=4SYAKMcRPKQ" target="_blank" rel="noopener noreferrer">Walkthrough</a>
@@ -101,6 +107,7 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 ---
 
 ## 🔐 Cryptography
+
 - [ ] <a href="https://tryhackme.com/room/cryptographybasics" target="_blank" rel="noopener noreferrer">TryHackMe | Cryptography Basics</a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=XlLRQoOELVc" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/publickeycrypto" target="_blank" rel="noopener noreferrer">TryHackMe | Public Key Cryptography Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=fGzbuwmBBA4" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/hashingbasics" target="_blank" rel="noopener noreferrer">TryHackMe | Hashing Basics</a> 💸 🎥 <a href="https://www.youtube.com/watch?v=4vGjlWCejVw" target="_blank" rel="noopener noreferrer">Walkthrough</a>
@@ -148,6 +155,19 @@ A **curated and interactive roadmap** to learn Cybersecurity on <a href="https:/
 - [ ] <a href="https://tryhackme.com/room/shellsoverview" target="_blank" rel="noopener noreferrer">TryHackMe | Shells Overview </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=WvCl5sePa7Y" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 - [ ] <a href="https://tryhackme.com/room/sqlmapthebasics" target="_blank" rel="noopener noreferrer">TryHackMe | SQLMap: The Basics </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=EJ14GoaYGc0" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
+
+---
+
+## 🛡️🛠️ Defensive Security Tooling
+
+- [ ] <a href="https://tryhackme.com/room/introtosiem" target="_blank" rel="noopener noreferrer">TryHackMe | Introduction to SIEM </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=4_3UnNPHV0k" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/firewallfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | Firewall Fundamentals </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=FyStzmYIlxk" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/idsfundamentals" target="_blank" rel="noopener noreferrer">TryHackMe | IDS Fundamentals </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=iLVFhWOtOmE" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/vulnerabilityscanneroverview" target="_blank" rel="noopener noreferrer">TryHackMe | Vulnerability Scanner Overview </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=CyN1IiBUfEw" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/cyberchefbasics" target="_blank" rel="noopener noreferrer">TryHackMe | CyberChef: The Basics </a> 🎁 🎥 <a href="https://www.youtube.com/watch?v=o8B2dhovkPs" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/capabasics" target="_blank" rel="noopener noreferrer">TryHackMe | CAPA: The Basics </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=tyd49sc1b4Y" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/remnuxgettingstarted" target="_blank" rel="noopener noreferrer">TryHackMe | REMnux: Getting Started </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=Xb1-_oOfbTE" target="_blank" rel="noopener noreferrer">Walkthrough</a>
+- [ ] <a href="https://tryhackme.com/room/flarevmarsenaloftools" target="_blank" rel="noopener noreferrer">TryHackMe | FlareVM: Arsenal of Tools </a> 💸 🎥 <a href="https://www.youtube.com/watch?v=edYNEWboB_I" target="_blank" rel="noopener noreferrer">Walkthrough</a>
 
 
 ---
